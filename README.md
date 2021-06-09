@@ -12,7 +12,7 @@ CPE 203 Proj-Based OO Prog and Design
 
 CSC 225 Intro to Computer Organization
 
--Studied computer architecture of the LC3, wrote programs in Assembly, and ended with introduction to C
+-Studied computer architecture of the RISC-V, wrote programs in Assembly, and ended with introduction to C
 
 CSC 348 Discrete Structures
 
