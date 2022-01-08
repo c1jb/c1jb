@@ -1,4 +1,4 @@
-Hello, my name is Cooper. I am a Software Engineering major at Cal Poly San Luis Obispo, and I will be graduating in Spring of 2024. As of Fall 2021, I am a sophomore, and have Junior standing. I have experience with Java, Python, RISC-V Assembly, and C. I am currently searching for internships for the summer of 2022. Thank you for stopping by!
+Hello, my name is Cooper. I am a Software Engineering major at Cal Poly San Luis Obispo, and I will be graduating in Spring of 2024. As of Winter 2022, I am a sophomore, and have Senior standing. I have experience with Java, Python, RISC-V Assembly, React, JavaScript and C. I am currently searching for internships for the summer of 2022. Thank you for stopping by!
 
 Relevant Cal Poly Course Work
 
@@ -18,9 +18,13 @@ CSC 348 Discrete Structures
 
 -Logic, set theory, and various forms of proofs
 
-CPE 357 Systems Programming*
+CPE 357 Systems Programming
 
 -Project based introduction to C Programming Language
 -Custom dynamic hash table, C Shell, LZW Compression
+
+CSC 308 Software Engineering I*
+
+-Designing, creating, and deploying a software solution to a central issue with a team
 
 *in progress
