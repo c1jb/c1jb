@@ -31,9 +31,12 @@ CSC 309 Software Engineering II*
 
 -Designing, creating, and deploying a software solution to a central issue with a team
 
-CSC 349 Design and Analysis of Algorithms
+CSC 349 Design and Analysis of Algorithms*
+
 -Intermediate and advanced algorithms and their analysis
+
 -Mathematical, geometrical, and graph algorithms. NP-complete problems
+
 -Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search
 
 *in progress
