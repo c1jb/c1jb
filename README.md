@@ -27,16 +27,23 @@ CSC 308 Software Engineering I
 
 -Designing, creating, and deploying a software solution to a central issue with a team
 
-CSC 309 Software Engineering II*
+CSC 309 Software Engineering II
 
 -Designing, creating, and deploying a software solution to a central issue with a team
 
-CSC 349 Design and Analysis of Algorithms*
+CSC 349 Design and Analysis of Algorithms
 
 -Intermediate and advanced algorithms and their analysis
 
 -Mathematical, geometrical, and graph algorithms. NP-complete problems
 
 -Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search
+
+CSC 365 Introduction to Database Systems*
+
+-Basic principles of database management systems (DBMS) and of DBMS application development
+
+-DBMS objectives, systems architecture, database models with emphasis on Entity-Relationship and Relational models, data definition and manipulation languages, the 
+Structured Query Language (SQL), database design, application development tools
 
 *in progress
