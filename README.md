@@ -39,11 +39,17 @@ CSC 349 Design and Analysis of Algorithms
 
 -Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search
 
-CSC 365 Introduction to Database Systems*
+CSC 365 Introduction to Database Systems
 
 -Basic principles of database management systems (DBMS) and of DBMS application development
 
 -DBMS objectives, systems architecture, database models with emphasis on Entity-Relationship and Relational models, data definition and manipulation languages, the 
 Structured Query Language (SQL), database design, application development tools
+
+CSC 430 Programming Languages*
+
+-Programming language design through evaluator implementation. Expressions, functions, environments, closures, mutation, objects, type systems, and syntactic abstraction. 
+
+-Syntactic, semantic, and static analysis properties.
 
 *in progress
