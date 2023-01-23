@@ -1,4 +1,4 @@
-Hello, my name is Cooper. I am a Software Engineering major at Cal Poly San Luis Obispo, and I will be graduating in Spring of 2024. As of Winter 2022, I am a sophomore, and have Senior standing. I have experience with Java, Python, RISC-V Assembly, React, JavaScript and C. I am currently searching for internships for the summer of 2022. Thank you for stopping by!
+Hello, my name is Cooper. I am a Software Engineering major at Cal Poly San Luis Obispo, and I will be graduating in June 2024. As of Winter 2023, I am a junior, and have Senior standing. I have experience with Java, Python, SQL, RISC-V Assembly, React, JavaScript and C. Thank you for stopping by!
 
 Relevant Cal Poly Course Work
 
