@@ -52,7 +52,7 @@ CSC 430 Programming Languages
 
 -Syntactic, semantic, and static analysis properties.
 
-CSC 305 Individual Software Design and Development
+CSC 305 Individual Software Design and Development*
 
 -Practical software development skills needed for construction of mid-sized production-quality software modules, using the CSC upper division programming language. 
 
