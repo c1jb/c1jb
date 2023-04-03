@@ -46,10 +46,18 @@ CSC 365 Introduction to Database Systems
 -DBMS objectives, systems architecture, database models with emphasis on Entity-Relationship and Relational models, data definition and manipulation languages, the 
 Structured Query Language (SQL), database design, application development tools
 
-CSC 430 Programming Languages*
+CSC 430 Programming Languages
 
 -Programming language design through evaluator implementation. Expressions, functions, environments, closures, mutation, objects, type systems, and syntactic abstraction. 
 
 -Syntactic, semantic, and static analysis properties.
+
+CSC 305 Individual Software Design and Development
+
+-Practical software development skills needed for construction of mid-sized production-quality software modules, using the CSC upper division programming language. 
+
+-Topics include inheritance, exceptions, and memory and disk-based dynamic data structures. 
+
+-Students must complete an individual programming project of mid-level complexity.
 
 *in progress
