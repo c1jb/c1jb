@@ -76,4 +76,5 @@ CSC 484 User-Centered Interface Design and Development
 -Topics include: study of human characteristics affected by interface design, effective requirements data collection and analysis, user-centered approaches to software engineering, and evaluation of interface and interaction quality.
 
 *in progress
+
 All descriptions are taken from https://catalog.calpoly.edu/coursesaz/csc/
