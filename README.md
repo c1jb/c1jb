@@ -1,4 +1,4 @@
-Hello, my name is Cooper. I am a Software Engineering major at Cal Poly San Luis Obispo, and I will be graduating in June 2024. As of Winter 2023, I am a junior, and have Senior standing. I have experience with Java, Python, SQL, RISC-V Assembly, React, JavaScript and C. Thank you for stopping by!
+Hello, my name is Cooper. I am a Software Engineering major at Cal Poly San Luis Obispo, and I will be graduating in June 2024. As of Fall 2023 I am a senior. I have experience with Java, Python, SQL, RISC-V Assembly, React, JavaScript and C. Thank you for stopping by!
 
 Relevant Cal Poly Course Work
 
@@ -21,6 +21,7 @@ CSC 348 Discrete Structures
 CPE 357 Systems Programming
 
 -Project based introduction to C Programming Language
+
 -Custom dynamic hash table, C Shell, LZW Compression
 
 CSC 308 Software Engineering I
@@ -39,7 +40,7 @@ CSC 349 Design and Analysis of Algorithms
 
 -Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search
 
-CSC 365 Introduction to Database Systems
+CSC 365 Introduction to Database Systems - TA for 365 as well. 
 
 -Basic principles of database management systems (DBMS) and of DBMS application development
 
@@ -52,7 +53,7 @@ CSC 430 Programming Languages
 
 -Syntactic, semantic, and static analysis properties.
 
-CSC 305 Individual Software Design and Development*
+CSC 305 Individual Software Design and Development
 
 -Practical software development skills needed for construction of mid-sized production-quality software modules, using the CSC upper division programming language. 
 
@@ -60,4 +61,19 @@ CSC 305 Individual Software Design and Development*
 
 -Students must complete an individual programming project of mid-level complexity.
 
+CSC 402 Software Requirements Engineering*
+
+-Software requirements elicitation, analysis and documentation. 
+
+-Team process infrastructure and resource estimation to support appropriate levels of quality.
+
+-Software architectural design.
+
+CSC 484 User-Centered Interface Design and Development
+
+-Introduction to the importance of user-centered principles in the design of good interfaces and effective human-computer interaction. 
+
+-Topics include: study of human characteristics affected by interface design, effective requirements data collection and analysis, user-centered approaches to software engineering, and evaluation of interface and interaction quality.
+
 *in progress
+All descriptions are taken from https://catalog.calpoly.edu/coursesaz/csc/
