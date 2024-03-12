@@ -14,15 +14,13 @@ CSC 225 Intro to Computer Organization
 
 -Studied computer architecture of the RISC-V, wrote programs in Assembly, and ended with introduction to C
 
-CSC 348 Discrete Structures
+CSC 305 Individual Software Design and Development
 
--Logic, set theory, and various forms of proofs
+-Practical software development skills needed for construction of mid-sized production-quality software modules, using the CSC upper division programming language. 
 
-CPE 357 Systems Programming
+-Topics include inheritance, exceptions, and memory and disk-based dynamic data structures. 
 
--Project based introduction to C Programming Language
-
--Custom dynamic hash table, C Shell, LZW Compression
+-Students must complete an individual programming project of mid-level complexity.
 
 CSC 308 Software Engineering I
 
@@ -32,6 +30,10 @@ CSC 309 Software Engineering II
 
 -Designing, creating, and deploying a software solution to a central issue with a team
 
+CSC 348 Discrete Structures
+
+-Logic, set theory, and various forms of proofs
+
 CSC 349 Design and Analysis of Algorithms
 
 -Intermediate and advanced algorithms and their analysis
@@ -40,6 +42,12 @@ CSC 349 Design and Analysis of Algorithms
 
 -Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search
 
+CPE 357 Systems Programming
+
+-Project based introduction to C Programming Language
+
+-Custom dynamic hash table, C Shell, LZW Compression
+
 CSC 365 Introduction to Database Systems - TA for 365 as well. 
 
 -Basic principles of database management systems (DBMS) and of DBMS application development
@@ -47,27 +55,27 @@ CSC 365 Introduction to Database Systems - TA for 365 as well.
 -DBMS objectives, systems architecture, database models with emphasis on Entity-Relationship and Relational models, data definition and manipulation languages, the 
 Structured Query Language (SQL), database design, application development tools
 
-CSC 430 Programming Languages
-
--Programming language design through evaluator implementation. Expressions, functions, environments, closures, mutation, objects, type systems, and syntactic abstraction. 
-
--Syntactic, semantic, and static analysis properties.
-
-CSC 305 Individual Software Design and Development
-
--Practical software development skills needed for construction of mid-sized production-quality software modules, using the CSC upper division programming language. 
-
--Topics include inheritance, exceptions, and memory and disk-based dynamic data structures. 
-
--Students must complete an individual programming project of mid-level complexity.
-
-CSC 402 Software Requirements Engineering*
+CSC 402 Software Requirements Engineering
 
 -Software requirements elicitation, analysis and documentation. 
 
 -Team process infrastructure and resource estimation to support appropriate levels of quality.
 
 -Software architectural design.
+
+CSC 405 Software Construction*
+
+-Design and construction of sizeable software products. 
+
+-Technical management of software development teams.
+
+-Software development process models, software design, documentation, quality assurance during development, software unit and integration testing; CASE tools, development environments, test tools, configuration management.
+
+CSC 430 Programming Languages
+
+-Programming language design through evaluator implementation. Expressions, functions, environments, closures, mutation, objects, type systems, and syntactic abstraction. 
+
+-Syntactic, semantic, and static analysis properties.
 
 CSC 484 User-Centered Interface Design and Development
 
