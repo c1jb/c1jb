@@ -48,12 +48,20 @@ CPE 357 Systems Programming
 
 -Custom dynamic hash table, C Shell, LZW Compression
 
-CSC 365 Introduction to Database Systems - TA for 365 as well. 
+CSC 365 Introduction to Database Systems - TA as well. 
 
 -Basic principles of database management systems (DBMS) and of DBMS application development
 
 -DBMS objectives, systems architecture, database models with emphasis on Entity-Relationship and Relational models, data definition and manipulation languages, the 
 Structured Query Language (SQL), database design, application development tools
+
+CSC 369 Introduction to Distributed Computing*
+
+-Introduction to distributed computing paradigms and cloud computing. 
+
+-Modern distributed computing infrastructures. 
+
+-Problem-solving in a distributed computing environment.
 
 CSC 402 Software Requirements Engineering
 
